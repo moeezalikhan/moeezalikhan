@@ -92,6 +92,7 @@ Working in Software development industry for more then 6 years and have worked i
 ✓ OpenCart
 ✓ Spree
 ✓ Bagisto
+✓ Wagtail
 
 <h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Databases / Search Engines:</h3>
 ✓ DynamoDB,
