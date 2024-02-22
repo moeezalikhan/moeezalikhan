@@ -8,9 +8,9 @@
 
 
 <p>
-Working in Software development industry for more then 6 years and have worked in a wide range of applications & technologies.
+Working in Software development industry for more then 8 years and have worked in a wide range of applications & technologies.
 
- I took part in projects of different sizes and types from large Enterprise Fintech applications for Europian government to small business processes automation tools for StartUps.
+ I took part in projects of different sizes and types from large Enterprise Fintech applications for European government to small business process automation tools for StartUps.
 
  My main responsibilities were direct software development, including software architecture, and my team's code quality control. In addition, I was engaged in the planning and organization of the development process. I'm an expert in OOP and design patterns.
 </p>
