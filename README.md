@@ -6,9 +6,9 @@
 <a href='https://www.linkedin.com/in/moeez-ali-khan/' ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='https://www.facebook.com/moeezalikhan1/' ><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-Working in Software development industry for more then 8 years and have worked in a wide range of applications & technologies.
+I have worked in the Software development industry for more than a decade and have worked with a wide range of applications and technologies.
 
-I took part in projects of different sizes and types from large Enterprise Fintech applications for European government to small business process automation tools for StartUps.
+I participated in projects of different sizes and types, from large Enterprise Fintech applications for the European government to small business process automation tools for Start-Ups.
 
 My main responsibilities were direct software development, including software architecture, and my team's code quality control. In addition, I was engaged in the planning and organization of the development process. I'm an expert in OOP and design patterns.
 
