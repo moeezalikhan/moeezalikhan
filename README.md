@@ -1,8 +1,3 @@
-# GitHub README Preview
-
-## How your profile will appear when rendered:
-
----
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="30"/> Hey! I am Moeez Ali Khan.
 
